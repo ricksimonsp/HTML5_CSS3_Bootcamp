@@ -1,0 +1,12 @@
+@charset "UTF8";
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1:hover {
+    text-decoration: underline;
+    color: darkslategray;
+}
+
+

@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.box {
+    border: 6px solid olive;
+    height: 300px;
+    width: 300px;
+    font-size: 40px;
+    margin: 0 auto;
+    overflow-x: hidden;
+}
+
+span {
+    width: 400px;
+    display: inline-block;
+    background-color: orangered;
+}

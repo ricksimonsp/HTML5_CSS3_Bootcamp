@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    
+    flex-wrap: wrap;
+    width: 800px;
+    height: 800px;
+    background-color: rgb(15, 96, 218);
+    margin: auto;
+    
+}
+
+.btn {
+    width: 100px;
+    height: 60px;
+    border-radius: 5px;
+    border: none;
+    margin: 3px;
+    background-color: rgb(105, 222, 222);
+    color: white;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    
+}
+
+.three {
+    align-self: flex-end;
+}
