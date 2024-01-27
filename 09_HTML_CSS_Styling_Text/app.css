@@ -10,4 +10,9 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
 
